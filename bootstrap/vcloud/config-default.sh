@@ -1,0 +1,2 @@
+export APOLLO_INVENTORY=inventory/onpremise-inventory
+export APOLLO_ansible_ssh_user=buildbot
